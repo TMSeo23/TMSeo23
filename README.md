@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **TMSeo23/TMSeo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=50&section=header&text=Hello%20there%20👊&fontSize=50&fontColor=d6ace6)
